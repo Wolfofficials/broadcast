@@ -1,3 +1,3 @@
-session = '1BVtsOHMBu0I8NW8nVvMNz_nBPm2l9KNcqWIRABCTPg4y5ivxO9btUccg0CSkPYJknRsMm07Jltehq5LkI7nIe4d7fdVKQZcuNoVRR-gQh1YNIs9yAlOYkOAzUi657K1i8icnKOoiLXEt1mbMPvV-HQ9bx_yGF-CZbCFkbEErFMYNAeLphcJAdRmBJwu6XkWanccdJ3wu4NGrN5euhOMYYzq3gVn1ALEVSN8kIx6EWaDaT0t9zzW_oxskCqLK71hOV9Zhg66eSq8uFCHz6N8OOkkDj37qPIjPGBIHzJOVEC_RYHF04RnGoIqpVx6qCrs2txjYGMmzfpky3jubZ7glDsHzX0PfEI8='
-api_id = '21339274'
-api_hash = 'f76fd7f082798b3ff09e5943ee9f3ea2'
+session = 
+api_id = 
+api_hash = 
