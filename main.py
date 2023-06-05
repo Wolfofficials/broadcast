@@ -24,7 +24,7 @@ with open('texts.txt', 'r') as f:
 # Define the send_message function with a time delay and a random message
 async def send_message_with_delay_to_group(group):
     # Set the delay time in seconds between messages
-    message_delay_time = 5
+    message_delay_time = 576
 
     # Send the random message to the target group
     random_message = random.choice(messages)
@@ -52,7 +52,7 @@ async def auto_reply(event):
 # Define the main loop that sends messages to all groups indefinitely
 async def main():
     # Set the delay time in seconds between sending messages to groups
-    group_delay_time = 1
+    group_delay_time = 576
     
     while True:
         for group in groups:
